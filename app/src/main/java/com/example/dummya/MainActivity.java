@@ -130,7 +130,7 @@ public class MainActivity extends AppCompatActivity {
 
                 mArrayList.clear();
                 GetData task = new GetData();
-                task.execute("https://usa3234.cafe24.com/dummyA.php");
+                task.execute("https://xxxx.php");
             }
         };
         return timerTask;
